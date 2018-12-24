@@ -1,0 +1,19 @@
+{
+  "name": "etl-transformation-backend",
+  "version": "1.0.0",
+  "description": "simplified Proof-ofConcept of the transformation stage of an ETL system.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Idirss AIT HAFID & Oumayma GHARIB",
+  "license": "ISC",
+  "dependencies": {
+    "alasql": "^0.4.11",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "hapi": "^17.8.1",
+    "multer": "^1.4.1"
+  }
+}
